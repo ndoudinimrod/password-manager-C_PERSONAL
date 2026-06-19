@@ -78,7 +78,7 @@ Projet en cours — le cœur fonctionnel est réalisé.
 
 
 
-**Nimrod NDOUDI** — [LinkedIn](https://www.linkedin.com/in/nimrod-ndoudi) · [Portfolio](https://ndoudinimrod.github.io/) · [Email](nimrodndoudi@gmail.com)
+**Nimrod NDOUDI** — [LinkedIn](https://www.linkedin.com/in/nimrod-ndoudi) · [Portfolio](https://ndoudinimrod.github.io/) 
 
 
 
