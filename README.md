@@ -66,8 +66,8 @@ Projet en cours — le cœur fonctionnel est réalisé.
 
 
 
-> ⚠️ **Project in progress** — Des ajustements sont encore à réaliser mais le gros du travail est effectué.
-
+> ⚠️ **Project in progress** — Des ajustements sont encore à réaliser mais le gros du travail est effectué.<br>
+> 🔒 **Chiffrement à venir**
 
 
 ---
